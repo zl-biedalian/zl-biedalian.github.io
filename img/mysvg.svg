@@ -1,0 +1,16 @@
+<svg width="366" height="361" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="363" width="368" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_1" d="m182.750065,0.749998c-100.515583,0 -182.000066,80.365126 -182.000066,179.500017c0,99.134512 81.484499,179.500001 182.000066,179.500001c100.515567,0 181.999954,-80.365488 181.999954,-179.500001c0,-99.13489 -81.484387,-179.500017 -181.999954,-179.500017zm-29.239345,299.609624l-44.281993,-43.711667l77.476616,-76.407482l-77.476616,-76.40745l44.281993,-43.673862l121.767852,120.081312l-121.767852,120.119149z" stroke-width="1.5" fill="#f0eafc"/>
+  <text font-weight="bold" stroke="#000" transform="rotate(44 166.16522216796878,116.13102722167969) matrix(1.1995115660655313,0,0,1.4941903016273244,-147.78365907777396,-43.585090231386445) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_2" y="115.077269" x="225.028418" stroke-opacity="null" stroke-width="0" fill="#CE7975">小火柴</text>
+  <text stroke="#000" font-weight="bold" transform="rotate(-45 177.35836791992182,234.2251586914062) matrix(1.175722986530201,0,0,1.5035879273180623,-60.74683483238519,-128.0978519275241) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_3" y="249.055192" x="153.582805" stroke-opacity="null" stroke-width="0" fill="#CE7975">学习记录</text>
+ </g>
+</svg>
